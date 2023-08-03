@@ -5,10 +5,6 @@ import java.util.Scanner;
 
 /**
  * Lab10
- * @author Trenton Brown
- * @LabInstructor: Andrew Holmes
- * @LectureInstructor: Travis Doom
- * 
  * This class makes an array of 1000 random doubles. It then sorts the list and 
  * prompts the user to enter a type of search and for the index to determine the
  * value to be searched for.
