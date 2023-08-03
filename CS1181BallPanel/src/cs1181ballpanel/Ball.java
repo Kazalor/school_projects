@@ -5,9 +5,6 @@ import javafx.scene.shape.Circle;
 
 /**
  * Lab 03
- * @author Trenton Brown
- * Lab Instructor: William Flaherty
- * Lecture Instructor: Dr. Doom
  * This class will be used to make the circles or "balls" for the animation
  */
 public class Ball extends Circle {
