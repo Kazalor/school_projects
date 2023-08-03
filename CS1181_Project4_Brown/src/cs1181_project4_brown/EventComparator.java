@@ -5,9 +5,6 @@ import java.util.Comparator;
 
 /**
  * Project4
- * @author Trenton Brown
- * @LabInstructor: Andrew Holmes
- * @LectureInstructor: Travis Doom
  * 
  * THis class is used by the PriorityQueue in main to sort the customers
  */
