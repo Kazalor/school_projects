@@ -1,9 +1,4 @@
 /**
- * CS1181 Lab Starter Code
- * Trenton Brown
- * Lab Section: XX
- * Lab Instructor: Lorem Ipsum
- * Lecture Instructor: Dr. Doom
  * 
  * Citations: Final lab code is based on sample code distributed as part of
  * the laboratory assignment/requirements.
