@@ -5,9 +5,6 @@ import java.text.DecimalFormat;
 
 /**
  * Project4
- * @author Trenton Brown
- * @LabInstructor: Andrew Holmes
- * @LectureInstructor: Travis Doom
  * 
  * This class holds the customer manipulation and allows for the creation of customers
  */
