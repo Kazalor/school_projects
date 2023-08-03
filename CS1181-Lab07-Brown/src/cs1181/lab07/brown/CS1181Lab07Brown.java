@@ -3,9 +3,6 @@ package cs1181.lab07.brown;
 
 /**
  * Lab07
- * @author Trenton Brown
- * Lab Instructor: Andrew Holmes
- * Lecture Instructor: Travis Doom
  * 
  * This class demonstrates the chain class, using Integers.
  */
