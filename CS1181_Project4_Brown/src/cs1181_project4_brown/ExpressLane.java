@@ -4,9 +4,6 @@ import java.util.ArrayDeque;
 
 /**
  * Project4
- * @author Trenton Brown
- * @LabInstructor: Andrew Holmes
- * @LectureInstructor: Travis Doom
  * 
  * This class allows the instantiation of the Express Lanes
  * 
