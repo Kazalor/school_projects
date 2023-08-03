@@ -19,7 +19,7 @@ import java.util.Scanner;
  *
  * @author Doom
  * 
- * Lab06 Changes 
+ * Lab06 Changes by Student
  * Code to fill the "empty spaces in the grid. Code was also added to get the triangles
  * from a file like in lab05 and solve for the maximum path of natural numbers
  * with an additional path as opposed to lab05
