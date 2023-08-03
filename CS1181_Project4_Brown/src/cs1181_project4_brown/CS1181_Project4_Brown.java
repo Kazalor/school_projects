@@ -8,9 +8,6 @@ import java.util.Scanner;
 
 /**
  * Project4
- * @author Trenton Brown
- * @LabInstructor: Andrew Holmes
- * @LectureInstructor: Travis Doom
  * 
  * The main class reads the file of the store's customer data and adds the customers'
  * and their info to an ArrayList to be further handled. The customers' arrival
