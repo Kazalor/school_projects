@@ -5,9 +5,6 @@ package cs1181_project4_brown;
 import java.util.ArrayDeque;
 /**
  * Project4
- * @author Trenton Brown
- * @LabInstructor: Andrew Holmes
- * @LectureInstructor: Travis Doom
  * 
  * This class allows the instantiation of RegularLanes and the manipulation of 
  * them and the Express Lanes
