@@ -3,10 +3,6 @@ package cs1181.lab07.brown;
 
 /**
  * Lab07
- * @author Trenton Brown
- * Lab Instructor: Andrew Holmes
- * Lecture Instructor: Travis Doom
- * 
  * @param <E> 
  * This class is used by the Chain class to create and assign values in a linked
  * list
