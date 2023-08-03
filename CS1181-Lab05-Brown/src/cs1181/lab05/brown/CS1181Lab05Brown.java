@@ -7,9 +7,6 @@ import java.util.Scanner;
 
 /**
  * Lab 05
- * @author Trenton Brown
- * Lab Instructor: Andrew Holmes
- * Lecture Instructor: Dr. Doom
  * 
  * This class prompts the user for a word, then passes and may recursively call
  * the permutationList(String word) method and print each permutation of the word.
