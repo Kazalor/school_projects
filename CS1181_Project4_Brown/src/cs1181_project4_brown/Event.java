@@ -3,9 +3,6 @@ package cs1181_project4_brown;
 
 /**
  * Project4
- * @author Trenton Brown
- * @LabInstructor: Andrew Holmes
- * @LectureInstructor: Travis Doom
  * 
  * This class allows the creation of events to be used to determine what is happening
  * in the store to the customers
